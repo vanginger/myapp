@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appshed.saasfeeswitzerland" version="3.0.0" versionCode="3">
+  <name>Saas Fee Switzerland</name>
+  <description>Saas Fee information for ski trip visit</description>
+  <author email="tysonc@whitcliffemount.co.uk">Craig Tyson</author>
+  <access origin="*" uri="*"/>
+  <gap:plugin name="com.adobe.plugins.gaplugin"/>
+  <icon src="Icon.png"/>
+  <icon src="iclauncher-ldpi.png" gap:platform="android" gap:density="ldpi"/>
+  <icon src="iclauncher-mdpi.png" gap:platform="android" gap:density="mdpi"/>
+  <icon src="iclauncher-hdpi.png" gap:platform="android" gap:density="hdpi"/>
+  <icon src="iclauncher-xhdpi.png" gap:platform="android" gap:density="xhdpi"/>
+  <gap:splash src="Default.png"/>
+</widget>
